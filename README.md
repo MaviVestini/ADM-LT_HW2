@@ -1,6 +1,6 @@
 # ADM-LT_HW2
 
-Personal repository for the $2^{nd}$ group homework for the *Advanced Data Mining and Language Technology* course, for the Master Degree in *Data science* at *Sapienza University*.
+Repository for the $2^{nd}$ group homework for the *Advanced Data Mining and Language Technology* course, for the Master Degree in *Data science* at *Sapienza University*.
 
 # Content
 
